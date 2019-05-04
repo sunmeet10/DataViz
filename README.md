@@ -31,7 +31,8 @@ Long	Longitude
 Dimension	Length x Width
 Avg_MPG	Mean of City_MPG & Hwy_MPG
 
-GitHub Link -  https://github.com/pdhoot16/DataViz 
+GitHub Link -  https://github.com/pdhoot16/DataViz
+
 Tools for Visualization 
 
 Python, Jupyter - Colab
@@ -59,7 +60,7 @@ We have created a dashboard in Python that links all our visualizations and anal
 To understand, let’s look at the individual aspects of the dashboard
 1.	Horse power vs Retail price($): 
 This scatter plots compares the horse power and retail price of each  vehicle. 
- 
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/dashboard.png">
 2.	Number of cars of each company:
 This bar graph gives number of records of different companies. Toyota, Mercedes and Chevrolet have the high number of records. On selecting each record the dashboard highlights the features of the particular company.
  
