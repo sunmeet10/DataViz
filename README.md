@@ -63,21 +63,42 @@ To understand, let’s look at the individual aspects of the dashboard
 1.	Horse power vs Retail price($): 
 This scatter plots compares the horse power and retail price of each  vehicle. 
 <img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/dashboard.png">
+
 2.	Number of cars of each company:
 This bar graph gives number of records of different companies. Toyota, Mercedes and Chevrolet have the high number of records. On selecting each record the dashboard highlights the features of the particular company.
- 
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Scatter plot.png"> 
+ 
 3.	Country wise analysis: 
 This graph gives the country of the vehicle name along with the retail price. It is known that Germany, USA and Japan are leading manufacturers of cars. These countries manufacture cars for all price ranges. You can find maximum diversity for these countries. 
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Country.png"> 
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Country filtered.png"> 
 
 4.	Type of vehicle analysis: 
 From the dataset, we also get the type of vehicle. They can be classified into Wagon, Sports Car, Sedan, SUV, Pickup and Minivan.
 
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Type of vehicle.png"> 
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Type of vehicle filtered.png"> 
+
+
 5.	Analysis on the factors that affect the price of the vehicle:
 In order to analyse the factors affecting the price of the vehicle, we have plotted Cylinder, Engine Size,  City Miles per gallon, Highway Miles per gallon, Wheel base, Len, Weight and Width.
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Common bars.png"> 
 
 Actions and analysis on the dashboard: 
 Selecting a single company: The dashboard highlights the graphs filtered for ex. Mercedes.
 
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Interactive 1.png"> 
+
 On selecting a particular car type:
 
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Interactive 2.png"> 
+
 On filtering a particular model from country:
+
+
+<img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Interactive 3.png"> 
