@@ -72,10 +72,12 @@ We have created a dashboard in Python that links all our visualizations and anal
 To understand, let’s look at the individual aspects of the dashboard
 1.	Horse power vs Retail price($): 
 This scatter plots compares the horse power and retail price of each  vehicle. 
+
 <img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/dashboard.png">
 
 2.	Number of cars of each company:
 This bar graph gives number of records of different companies. Toyota, Mercedes and Chevrolet have the high number of records. On selecting each record the dashboard highlights the features of the particular company.
+
 <img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Scatter plot.png"> 
  
 3.	Country wise analysis: 
@@ -105,10 +107,8 @@ Selecting a single company: The dashboard highlights the graphs filtered for ex.
 
 On selecting a particular car type:
 
-
 <img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Interactive 2.png"> 
 
 On filtering a particular model from country:
-
 
 <img src = "https://github.com/pdhoot16/DataViz/blob/Project-files/Images/Interactive 3.png"> 
