@@ -1,4 +1,6 @@
-##Introduction
+**Introduction**
+
+
 We have used a dataset of different types of cars and trucks. Specifications are given for 427 new vehicles for the year 2004. The attributes include price, fuel efficiency, quantitative measurements relating to the size of the vehicle. 
 In this dataset, we have 427 observations with 27 variables. 
 Dataset: 2004 Cars
