@@ -41,20 +41,27 @@ Python, Jupyter - Colab
 **Libraries : Pandas, Numpy, Altair (For Interactive Visualizations)**
 Contribution
 Each team member has contributes and fulfilled the following tasks.
+
+
 Poonam Dhoot (10399137) -------------------------------------------------------------------- 
 1.	Environment Set Setup (Installation Of Packages / Libraries)
 2.	Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
 3.	Interactive Dashboard With All Interactive Data Visualization
 4.	Report
+
+
 Sunmeet Thapar (10506082)-------------------------------------------------------------------
 1.	Data Preprocessing (Data Cleaning , Shaping)
 2.	Interactive Dashboard With All Interactive Data Visualization
+
+
 Ramya Hunasghatta M (10388022)--------------------------------------------------------------- 
 1.	Determining Initial Questions For Analysis
+
+
 Kriti Dhyani (10505759)-----------------------------------------------------------------------
 1.	Determining Initial Questions For Analysis
 2.	Getting Insights about the data and which attributes are related to each other
-
 
 Dataset Analysis:
 We have created a dashboard in Python that links all our visualizations and analysis.
