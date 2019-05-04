@@ -1,47 +1,80 @@
-# DataViz
-Data Visualization
+Introduction
+We have used a dataset of different types of cars and trucks. Specifications are given for 427 new vehicles for the year 2004. The attributes include price, fuel efficiency, quantitative measurements relating to the size of the vehicle. 
+In this dataset, we have 427 observations with 27 variables. 
+Dataset: 2004 Cars
+VehicleName	Model Name
+TypeOfVehicle	Model Type
+Company	Brand of Car
+Country	Origin of Brand
+Sedan	Yes/No
+Sports_Car	Yes/No
+SUV	Yes/No
+Wagon	Yes/No
+Minivan	Yes/No
+Pickup	Yes/No
+AWD	All-Wheel Drive? Yes/No
+RWD	Rear-Wheel Drive?
+Yes/No
+Retail_Price	Suggested Retail Price, what the manufacturer thinks the vehicle is worth, including adequate profit for the automaker and the dealer
+Dealer_Cost	Dealer Cost (or "invoice price"), what the dealership pays the manufacturer (U.S. Dollars)
+Engine_Size	Engine Size (liters)
+Cyl	Number of Cylinders
+HP	Horsepower
+City_MPG	City Miles Per Gallon
+Hwy_MPG	Highway Miles Per Gallon
+Weight	Weight (Pounds)
+Wheel_Base	Wheel Base (inches)
+Len	Length (inches)
+Width	Width (inches)
+Lat	Latitude
+Long	Longitude
+Dimension	Length x Width
+Avg_MPG	Mean of City_MPG & Hwy_MPG
 
-INTERACTIVE DATA VISUALIZATION ON CARS AND TRUCK DATASET USING PYTHON AND ALTAIR
-ASSIGNMENT -2
-MODULE: DATA VISUALIZATION
-MSc Data Analytics
-DUBLIN BUSINESS SCHOOL
-**AUTHORS / TEAM MEMBERS / Student Names: ** -----------------------------------------------------------
-Poonam Dhoot -10399137
-Sunmeet Thapar -10506082
-Ramya Hunasghatta M -10388022
-Kriti Dhyani -10505759
-TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
+GitHub Link -  https://github.com/pdhoot16/DataViz 
+Tools for Visualization 
 
-**LIBRARIES : PANDAS, NUMPY, ALTAIR (FOR INTERACTIVE VISUALIZATIONS) , FOLIUM **
-
-DESCRIPTIVE ABSTRACT:
-Specifications are given for 428 new vehicles for the 2004 year. The variables recorded include price, measurements
-relating to the size of the vehicle, and fuel efficiency.
-NAME: 2004 New Car and Truck Data
-TYPE: Sample
-SIZE: 428 observations, 24 variables
-Contribution: Each team member has contributes and fulfild the following tasks.
-
-POONAM DHOOT (10399137) --------------------------------------------------------------------
-1.Environment set setup (installation of packages / libraries)
-
-2.Data Preprocessing (Data cleaning ,shaping ,Working with pandas, altair,folium and SQL)
-
-3.Interactive Dashboard with all interactive data visualization.
-
-SUNMEET THAPAR (10506082)-------------------------------------------------------------------
-
-2.Which Cars/Trucks has the highest Retail Value?
-
-3Finding relationships of the columns from SQL.
-
-RAMYA Hunasghatta M (10388022)---------------------------------------------------------------
-1.Determining initial questions for analysis
-
-2.Getting insights about the data and which attributes are related to each other.
-
-KRITI DHYANI (10505759)-----------------------------------------------------------------------
+Python, Jupyter - Colab
+**Libraries : Pandas, Numpy, Altair (For Interactive Visualizations)**
+Contribution
+Each team member has contributes and fulfilled the following tasks.
+Poonam Dhoot (10399137) -------------------------------------------------------------------- 
+1.	Environment Set Setup (Installation Of Packages / Libraries)
+2.	Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
+3.	Interactive Dashboard With All Interactive Data Visualization
+4.	Report
+Sunmeet Thapar (10506082)-------------------------------------------------------------------
+1.	Data Preprocessing (Data Cleaning , Shaping)
+2.	Interactive Dashboard With All Interactive Data Visualization
+Ramya Hunasghatta M (10388022)--------------------------------------------------------------- 
+1.	Determining Initial Questions For Analysis
+Kriti Dhyani (10505759)-----------------------------------------------------------------------
+1.	Determining Initial Questions For Analysis
+2.	Getting Insights about the data and which attributes are related to each other
 
 
-The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
+Dataset Analysis:
+We have created a dashboard in Python that links all our visualizations and analysis.
+
+To understand, let’s look at the individual aspects of the dashboard
+1.	Horse power vs Retail price($): 
+This scatter plots compares the horse power and retail price of each  vehicle. 
+ 
+2.	Number of cars of each company:
+This bar graph gives number of records of different companies. Toyota, Mercedes and Chevrolet have the high number of records. On selecting each record the dashboard highlights the features of the particular company.
+ 
+3.	Country wise analysis: 
+This graph gives the country of the vehicle name along with the retail price. It is known that Germany, USA and Japan are leading manufacturers of cars. These countries manufacture cars for all price ranges. You can find maximum diversity for these countries. 
+
+4.	Type of vehicle analysis: 
+From the dataset, we also get the type of vehicle. They can be classified into Wagon, Sports Car, Sedan, SUV, Pickup and Minivan.
+
+5.	Analysis on the factors that affect the price of the vehicle:
+In order to analyse the factors affecting the price of the vehicle, we have plotted Cylinder, Engine Size,  City Miles per gallon, Highway Miles per gallon, Wheel base, Len, Weight and Width.
+
+Actions and analysis on the dashboard: 
+Selecting a single company: The dashboard highlights the graphs filtered for ex. Mercedes.
+
+On selecting a particular car type:
+
+On filtering a particular model from country:
