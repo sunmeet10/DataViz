@@ -33,7 +33,7 @@ Long	Longitude
 Dimension	Length x Width
 Avg_MPG	Mean of City_MPG & Hwy_MPG
 
-GitHub Link -  https://pdhoot16.github.io/
+GitHub Link -  https://pdhoot16.github.io/DataViz/
 
 Tools for Visualization 
 
